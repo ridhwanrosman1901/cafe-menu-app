@@ -41,13 +41,13 @@ To view the Cafe Menu, follow these steps:
 1. **Clone the repository** to your local machine using the following command:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ridhwanrosman1901/cafe-menu-app.git
     ```
 
 2. **Navigate** to the project directory:
 
     ```bash
-    cd cafe-menu
+    cd cafe-menu-app
     ```
 
 3. **Open the `index.html` file** in your web browser to view the Cafe Menu.
