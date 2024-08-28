@@ -3,7 +3,7 @@
 Welcome to the **Camper Cafe**! This project showcases a simple cafe menu using HTML and CSS. It is designed to provide a visually appealing layout for a coffee shop's offerings, including various types of coffee and desserts.
 
 ## Preview
-[preview](preview.png)
+![preview!](/preview.png)
 
 ## Table of Contents
 
